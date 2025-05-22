@@ -1,5 +1,12 @@
 h1 {
     padding: 20px;
-    background-color: rgb(106, 116, 247);
+    background-color: rgb(247, 188, 106);
     text-align: center;
+}
+
+p {
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
 }
